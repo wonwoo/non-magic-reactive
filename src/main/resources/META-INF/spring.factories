@@ -3,5 +3,7 @@ ml.wonwoo.nonmagic.EnableNonMagicConfiguration=\
   ml.wonwoo.nonmagic.WebHandlerConfiguration,\
   ml.wonwoo.nonmagic.NettyServerConfiguration,\
   ml.wonwoo.nonmagic.UndertowConfiguration,\
+  ml.wonwoo.nonmagic.TomcatConfiguration,\
+  ml.wonwoo.nonmagic.JettyConfiguration,\
   ml.wonwoo.nonmagic.PropertyPlaceholderConfiguration
 
