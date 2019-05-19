@@ -2,5 +2,6 @@ ml.wonwoo.nonmagic.EnableNonMagicConfiguration=\
   ml.wonwoo.nonmagic.WebFluxConfiguration,\
   ml.wonwoo.nonmagic.WebHandlerConfiguration,\
   ml.wonwoo.nonmagic.NettyServerConfiguration,\
+  ml.wonwoo.nonmagic.UndertowConfiguration,\
   ml.wonwoo.nonmagic.PropertyPlaceholderConfiguration
 
