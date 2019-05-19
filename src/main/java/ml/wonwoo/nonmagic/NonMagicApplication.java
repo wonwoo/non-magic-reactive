@@ -7,7 +7,7 @@ import org.springframework.context.annotation.ComponentScan;
 @Target({ElementType.TYPE})
 @Documented
 @ComponentScan
-@EnableMagicConfiguration
+@EnableNonMagicConfiguration
 public @interface NonMagicApplication {
 
 }

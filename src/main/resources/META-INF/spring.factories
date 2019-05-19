@@ -1,4 +1,4 @@
-ml.wonwoo.nonmagic.EnableMagicConfiguration=\
+ml.wonwoo.nonmagic.EnableNonMagicConfiguration=\
   ml.wonwoo.nonmagic.WebFluxConfiguration,\
   ml.wonwoo.nonmagic.WebHandlerConfiguration,\
   ml.wonwoo.nonmagic.NettyServerConfiguration
